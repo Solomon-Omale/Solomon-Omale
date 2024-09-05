@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Solomon-Omale
-- 👀 I’m interested in Data Science and Computational Mathematics using Python
-- I am sound in Mathematics, Statistics, space science, latex, python, mathematica, latex and PowerBI 
+- 👀 I am a Data Scientist and Applied Mathematician using Python
+- I am sound in Mathematics, Statistics, latex, python, mathematica, latex, SQL, Tableau, and PowerBI, ML and NLP 
 - 🌱 I can work on Exploratory Data Analysis and Machine Learning with Python on any can kind of industry
-- 💞️ I’m open for collaborations on Data Science projects that will help me build a career in Data Science
+- 💞️ I’m open for collaborations on Data Science projects that will foster business transformations
 - 📫 How to reach me, you can reach me via solomondavidson1203@gmail.com
 
 <!---
